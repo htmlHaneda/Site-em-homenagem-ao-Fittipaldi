@@ -1,0 +1,75 @@
+ html {
+    font-family: helvetica;
+    background-color: #76ABAE;
+}
+
+.container {
+    max-width: 1100px;
+    background-color: #EEEEEE;
+    position: relative;
+    margin: 50px auto;
+    padding: 20px 50px;
+    border: 2px solid #222831;
+    border-radius: 3px;
+    color: #222831;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.bold_2 {
+    font-weight: bold;
+}
+
+.header{ 
+    text-align: center;
+}
+
+.main_title {
+    font-size: 40px;
+}
+
+.main_paragraph {
+    font-style: italic;
+}
+
+.featured_image {
+    text-align: center;
+} 
+
+.biograf-container {
+    padding: 25px 0px;
+    margin: 25px 0px;
+    border-top: 1px dashed #31363F;
+    border-bottom: 1px dashed #31363F;
+}
+
+.courisit_container {
+    padding: 25px 0px;
+    border: 25px 0px;
+    border-top: 1px dashed #31363F;
+    border-bottom: 1px dashed #31363F;
+}
+
+.quotes_container {
+    background-color: #76ABAE;
+    padding: 30px;
+}
+
+.quotes_container blockquote {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.quotes_container p {
+    font-style: italic;
+}
+
+.courisit_container li {
+    height: 30px;
+}
+
+.img_bold {
+    font-weight: bold;
+} 
